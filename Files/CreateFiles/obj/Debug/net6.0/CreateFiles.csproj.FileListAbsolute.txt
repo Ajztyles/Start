@@ -1,0 +1,15 @@
+C:\CODES\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.exe
+C:\CODES\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.deps.json
+C:\CODES\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.runtimeconfig.json
+C:\CODES\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.dll
+C:\CODES\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.pdb
+C:\CODES\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.AssemblyInfoInputs.cache
+C:\CODES\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.AssemblyInfo.cs
+C:\CODES\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.csproj.CoreCompileInputs.cache
+C:\CODES\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.sourcelink.json
+C:\CODES\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.dll
+C:\CODES\Start\Files\CreateFiles\obj\Debug\net6.0\refint\CreateFiles.dll
+C:\CODES\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.pdb
+C:\CODES\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.genruntimeconfig.cache
+C:\CODES\Start\Files\CreateFiles\obj\Debug\net6.0\ref\CreateFiles.dll

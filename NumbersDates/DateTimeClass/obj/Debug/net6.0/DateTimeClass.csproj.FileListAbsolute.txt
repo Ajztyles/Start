@@ -1,0 +1,15 @@
+C:\CODES\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.exe
+C:\CODES\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.deps.json
+C:\CODES\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.runtimeconfig.json
+C:\CODES\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.dll
+C:\CODES\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.pdb
+C:\CODES\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfoInputs.cache
+C:\CODES\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfo.cs
+C:\CODES\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.CoreCompileInputs.cache
+C:\CODES\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.sourcelink.json
+C:\CODES\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.dll
+C:\CODES\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\refint\DateTimeClass.dll
+C:\CODES\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.pdb
+C:\CODES\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.genruntimeconfig.cache
+C:\CODES\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\ref\DateTimeClass.dll
