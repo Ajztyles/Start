@@ -24,5 +24,3 @@ sw.WriteLine("This is a text file.");
 Console.WriteLine(File.Exists(filename));
 
 // TODO: Determine if a file exists
-
-
